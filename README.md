@@ -8,4 +8,4 @@
 <img src="https://user-images.githubusercontent.com/76208395/179390731-4296bbe0-69ea-483a-8ac4-c1553e83fbe2.png" widht="500px" height="300px">
 
 ### *Built using HTML, CSS, JavaScript*
-[Have a look!]()
+[Have a look!](file:///C:/Users/aashi/OneDrive/Desktop/project%201/Sorting_Visualiser/index.html)
